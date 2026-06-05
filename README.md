@@ -1,6 +1,6 @@
 # Hi, I'm Nesrine 👋
 
-**Cloud & Platform Engineer** based in Tunisia 🇹🇳 — open to relocation across Europe (Netherlands · Belgium · Luxembourg · Switzerland · Ireland)
+**Cloud & Platform Engineer** based in Tunisia 🇹🇳 — open to international relocation and visa-sponsored opportunities across Europe and North America.
 
 I design, automate, and operate production infrastructure with a focus on **Kubernetes**, **AWS**, **Terraform**, and **GitOps**. 4+ years building cloud-native platforms that are reliable, scalable, and secure.
 
