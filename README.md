@@ -68,5 +68,5 @@ Full-stack digital store with JWT authentication, HMAC-signed license key genera
 
 ---
 
-*🌍 Open to relocation worldwide and visa-sponsored opportunities  
+*🌍 Open to international mobility and global project opportunities
 🚀 Immediately available*
