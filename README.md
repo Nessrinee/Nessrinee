@@ -1,7 +1,7 @@
 # Hi, I'm Nesrine 👋
 
 **Cloud Devops & Platform Engineer** based in Tunisia 🇹🇳 Open to relocation and visa sponsorship opportunities 🌍
-I design, automate, and operate production infrastructure with a focus on **Kubernetes**, **AWS**, **Terraform**, and **GitOps**. 4+ years building cloud-native platforms that are reliable, scalable, and secure.
+I design, automate, and operate production infrastructure with a focus on **Kubernetes**, **AWS**, **Terraform**, and **GitOps**. 5 years building cloud-native platforms that are reliable, scalable, and secure.
 
 ---
 
