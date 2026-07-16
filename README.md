@@ -38,7 +38,7 @@ I design, automate, and operate production infrastructure with a focus on **Kube
 ## 🚀 Featured Projects
 
 ### 🤖 [DevOps Job Application Automation](https://github.com/Nessrinee/DevOps-Job-Application-Automation-)
-AI-powered CLI pipeline that scrapes DevOps job listings, scores them against my CV using Groq LLaMA, auto-tailors the CV per job, and compiles a ready-to-send PDF — reducing application time by **80%**.
+AI-powered CLI pipeline that scrapes DevOps job listings, scores them against my CV using Groq LLaMA, auto-tailors the CV per job, and compiles a ready-to-send PDF reducing application time by **80%**.
 `Python` `Playwright` `Groq LLaMA` `SQLite` `LaTeX`
 
 ### ☁️ [Multi-Environment EKS Infrastructure Platform](https://github.com/Nessrinee/Multi-Environment-Infrastructure-Orchestration)
