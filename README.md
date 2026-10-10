@@ -22,7 +22,6 @@ I design, automate, and operate production infrastructure with a focus on **Kube
 **Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F0A830?style=flat)
 
 **Scripting & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
